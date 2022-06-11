@@ -1,4 +1,4 @@
 # Concept
 
-Morgana will act as a service to work along Merlin but with other services in mind
-It will communicate via gRPC with Merlin
+Morgana will act as an api authentication a service to work along Merlin and other services
+It will communicate via gRPC so any service must implement gRPC logic in order to make use of Morgana
