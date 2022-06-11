@@ -1,4 +1,4 @@
 # Concept
 
-Morgana will act as a side service to work along with Merlin
-It will com
+Morgana will act as a service to work along Merlin but with other services in mind
+It will communicate via gRPC with Merlin
