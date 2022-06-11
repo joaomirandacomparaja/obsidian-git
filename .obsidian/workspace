@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Morgana/Untitled.md",
+            "file": "Projects/Morgana.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Morgana/Untitled.md",
+                "file": "Projects/Morgana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "58f2a9a2dd8d1f24",
   "lastOpenFiles": [
+    "Projects/Morgana.md",
     "Projects/Morgana/Untitled.md",
     "Learning/API Key Refactor.md",
     "Developments/HK-32.md",
