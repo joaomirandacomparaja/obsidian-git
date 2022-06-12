@@ -10,5 +10,5 @@ Morgana will have two functionalities:
 
 Any application invoking Morgana will first authenticate those requests through some sort of middleware
 
-# Roadmap
+# To-Do
 
