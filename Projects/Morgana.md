@@ -14,3 +14,6 @@ Any application invoking Morgana will first authenticate those requests through 
 
 Make it so it returns any type of data as a response
 
+# To-Do
+
+Parse incoming request and transform it into a new request for the API being invoked
