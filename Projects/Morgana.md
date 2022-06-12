@@ -12,5 +12,5 @@ Any application invoking Morgana will first authenticate those requests through 
 
 # Challenges
 
-
+Make it so it returns any type of data as a response
 
